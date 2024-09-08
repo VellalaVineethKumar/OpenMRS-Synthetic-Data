@@ -1,4 +1,3 @@
-Introduction (30 seconds)
 
 Hello everyone, my name is Vineeth Vellala and I'm excited to share my research on generating synthetic medical data using normalising flows. Synthetic data plays a crucial role in healthcare research and education, especially in resource-constrained settings where access to real patient data is limited due to privacy concerns.Background and Objectives (1 minute)
 ![alt text](https://github.com/VellalaVineethKumar/OpenMRS-Synthetic-Data/blob/main/download%20(6).png)
